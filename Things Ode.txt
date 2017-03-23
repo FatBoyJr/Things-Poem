@@ -5,9 +5,11 @@ Phones
 Laptops
 Keyboards
 Tape
-pencils
-pens
-erasers
+Pencils
+Pens
+Erasers
 These are most things people find in an office
 And office drawers
-stationarie
+Stationarie
+Envolopes
+Stamps
