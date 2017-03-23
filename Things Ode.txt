@@ -7,5 +7,6 @@ Keyboards
 Tape
 pencils
 pens
+erasers
 These are most things people find in an office
 And office drawers
